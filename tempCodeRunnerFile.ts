@@ -1,0 +1,1 @@
+addToInventory(createinventory, charachter)
